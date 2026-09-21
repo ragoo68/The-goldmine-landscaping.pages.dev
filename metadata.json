@@ -1,0 +1,6 @@
+{
+  "name": "Gold Mine Landscaping",
+  "description": "Professional landscaping, bricklaying, paving, and outdoor construction services across Melbourne's western suburbs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
